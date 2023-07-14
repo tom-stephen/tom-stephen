@@ -1,4 +1,5 @@
-### <p align="center">Centered Text</p>
+#### <p align="center">Hey my name is Tom Stephen</p>
+## <a align="center" hfef='www.tomstephen.ca'>Check out my website here</a>
 
 <!--
 **tom-stephen/tom-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
