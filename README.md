@@ -1,4 +1,4 @@
-### <center>Tom Stephen</center>
+### <p align="center">Centered Text</p>
 
 <!--
 **tom-stephen/tom-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
