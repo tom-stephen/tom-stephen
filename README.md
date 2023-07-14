@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h3 align="center">Programming Languages 💻<h3>
 
 <p align="center">
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Afrancis-bui+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
