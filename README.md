@@ -1,4 +1,4 @@
-### Hi there 👋
+### <center>Tom Stephen</center>
 
 <!--
 **tom-stephen/tom-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
