@@ -1,5 +1,5 @@
-### <p align="center">Hey my name is Tom Stephen</p>
-# [My Website](https://www.tomstephen.ca/)
+## <p align="center">Hey my name is Tom Stephen</p>
+### <p align="center">[My Website](https://www.tomstephen.ca/)</p>
 
 <!--
 **tom-stephen/tom-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
