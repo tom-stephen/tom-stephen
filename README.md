@@ -1,5 +1,9 @@
 ## <p align="center">Hey my name is Tom Stephen</p>
-### <p align="center">[My Website](https://www.tomstephen.ca/)</p>
+#### <p align="center">[My Website](https://www.tomstephen.ca/)</p>
+
+#####Programming Languages 💻
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
 
 <!--
 **tom-stephen/tom-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
