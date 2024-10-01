@@ -2,9 +2,9 @@
 #### <p align="center">[My Website](https://www.tomstephen.ca/)</p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
     <a href='https://www.tomstephen.ca/'><img src='https://readme-typing-svg.demolab.com/?lines=Check+out+my+website:full+stack+web+devolper'/></a>
-</p>
+</p> -->
 
 #### About Me
 I'm working on getting my bachelor's of engineering at the University of Calgary. In the summers I work at Zone 4 Systems writing software. In my spare time, I work on side projects. Some of these can be seen here on GitHub. 
