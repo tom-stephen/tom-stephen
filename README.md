@@ -3,11 +3,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <a href='https://www.tomstephen.ca/'><img src='https://readme-typing-svg.demolab.com/?lines=Check+out+my+website;Full+Stack+Devolper'/></a>
+    <a href='https://www.tomstephen.ca/'><img src='https://readme-typing-svg.demolab.com/?lines=Check+out+my+website'/></a>
 </p>
 
 #### About Me
-I'm currently working on getting my bachelor's of engineering at the University of Calgary. In the summers I work at Zone 4 Systems writing software. In my spare time, I work on side projects. some of which you can see here on GitHub. 
+I'm working on getting my bachelor's of engineering at the University of Calgary. In the summers I work at Zone 4 Systems writing software. In my spare time, I work on side projects. Some of these can be seen here on GitHub. 
 
 #### How to Reach Me
 If you want to contact me feel free to reach out via email: tomwstephen@icloud.com
