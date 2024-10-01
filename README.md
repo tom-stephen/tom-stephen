@@ -3,7 +3,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <a href='https://www.tomstephen.ca/'><img src='https://readme-typing-svg.demolab.com/?lines=Check+out+my+website'/></a>
+    <a href='https://www.tomstephen.ca/'><img src='https://readme-typing-svg.demolab.com/?lines=Check+out+my+website:full+stack+web+devolper'/></a>
 </p>
 
 #### About Me
