@@ -18,12 +18,9 @@ If you want to contact me feel free to reach out via email: tomwstephen@icloud.c
 <p align='center'>
 <a href='#'><img alt='C' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'/></a>
 <a href='#'><img alt='C++' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a>
-<a href='#'><img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></a>
 <a href='#'><img alt='Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/></a>
 <a href='#'><img alt='JavaScript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/></a>
 <a href='#'><img alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/></a>
-<a href='#'><img alt='Terraform' src='https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white'/></a>
-<a href='#'><img alt='Markdown' src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white'/></a>
 </p>
 
 <h3 align="center">Markup Languages 💻<h3>
