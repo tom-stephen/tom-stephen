@@ -21,11 +21,18 @@ If you want to contact me feel free to reach out via email: tomwstephen@icloud.c
 <a href='#'><img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></a>
 <a href='#'><img alt='Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/></a>
 <a href='#'><img alt='JavaScript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/></a>
-<a href='#'><img alt='Node.js' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/></a>
 <a href='#'><img alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/></a>
 <a href='#'><img alt='Terraform' src='https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white'/></a>
 <a href='#'><img alt='Markdown' src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white'/></a>
 </p>
+
+<h3 align="center">Markup Languages 💻<h3>
+<p align='center'>
+<a href='#'><img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></a>
+<a href='#'><img alt='Terraform' src='https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white'/></a>
+<a href='#'><img alt='Markdown' src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white'/></a>
+</p>
+
 
 
     
@@ -48,6 +55,7 @@ If you want to contact me feel free to reach out via email: tomwstephen@icloud.c
 <a href='#'><img alt='NumPy' src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'/></a>
 <a href='#'><img alt='Pandas' src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white'/></a>
 <a href='#'><img alt='BootStrap' src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white'/></a>
+<a href='#'><img alt='Node.js' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/></a>
 <a href='#'><img alt='' src=''/></a>
 <a href='#'><img alt='' src=''/></a>
 <a href='#'><img alt='' src=''/></a>
